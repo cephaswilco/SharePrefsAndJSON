@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/david/Desktop/Classes/JAV1001/MenusAndPrefIntro/app/src/main/res/layout/activity_about.xml" value="0.4041666666666667" />
+        <entry key="..\:/Users/david/Desktop/Classes/JAV1001/MenusAndPrefIntro/app/src/main/res/layout/activity_list.xml" value="0.1" />
+        <entry key="..\:/Users/david/Desktop/Classes/JAV1001/MenusAndPrefIntro/app/src/main/res/layout/activity_main.xml" value="0.34629629629629627" />
+        <entry key="..\:/Users/david/Desktop/Classes/JAV1001/MenusAndPrefIntro/app/src/main/res/layout/content_list.xml" value="0.33697916666666666" />
+        <entry key="..\:/Users/david/Desktop/Classes/JAV1001/MenusAndPrefIntro/app/src/main/res/layout/layout.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/david/Desktop/Classes/JAV1001/MenusAndPrefIntro/app/src/main/res/layout/special_list_adapter.xml" value="0.18703703703703703" />
+        <entry key="..\:/Users/david/Desktop/Classes/JAV1001/MenusAndPrefIntro/app/src/main/res/menu/menu.xml" value="0.264" />
+        <entry key="..\:/Users/david/Desktop/Classes/JAV1001/MenusAndPrefIntro/app/src/main/res/xml/preferencescreen.xml" value="0.1" />
+        <entry key="..\:/Users/david/Desktop/Classes/JAV1001/MenusAndPrefIntro/app/src/main/res/xml/root_preferences.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
